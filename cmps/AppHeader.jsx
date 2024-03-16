@@ -11,7 +11,7 @@ function onGoHome(){
 		<nav className="app-nav">
 			<NavLink to="/">Home</NavLink> |
 			<NavLink to="/about"> About</NavLink> | 
-			<NavLink to="/book"> Books</NavLink>|
+			<NavLink to="/book"> Books </NavLink>|
 		<a href="https://roidoron.github.io/AppSuse/#/"> Apsus</a>
 		</nav>
 	</header>

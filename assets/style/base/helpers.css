@@ -82,7 +82,7 @@
 }
 
 .app-nav .active {
-    color: whitesmoke;
+    color: black;
     transition: 0.3s;
     scale: 1.2;
 }
